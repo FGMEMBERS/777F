@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">FEDEX</name>
+            <texture>FEDEX.png</texture>
+        </livery>
+        <lights>
+            <name type="string">FEDEX</name>
+            <texture>FEDEX-Lights.png</texture>
+        </lights>
+    </model>
+</sim>
+</PropertyList>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Emirates Cargo</name>
+            <texture>UAE.png</texture>
+        </livery>
+		<lights>
+            <name type="string">Emirates Cargo</name>
+            <texture>EMIRATES-Lights.png</texture>
+        </lights>
+    </model>
+</sim>
+</PropertyList>
